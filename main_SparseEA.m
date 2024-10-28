@@ -10,7 +10,7 @@ clc
 clear
 tic;
 algorithmName = 'SparseEA';  
-dataNameArray = {'Leukemia_3'}; % data set
+dataNameArray = {'colon'}; % data set
 global maxFES
 maxFES = 100;  % max number of iteration
 global choice
