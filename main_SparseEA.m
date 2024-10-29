@@ -1,5 +1,5 @@
 % the main function of SparseEA
-% the data set is in the file /dataset e.g: dataset/9Tumor.mat 
+% the dataset is in the colon.mat 
 % the results are saved as a .mat file, and main results are:
 %     unionPF is the PF of the final population
 %     unionPFfit is the object function (size of features and the error rate on test set)
